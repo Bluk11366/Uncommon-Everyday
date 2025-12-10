@@ -1,8 +1,8 @@
 let placeholder;
 
-function preload(){
-    placeholder = loadImage('placeholder');
-}
+// function preload(){
+//     placeholder = loadImage('.github\Uncommon Everyday\placeholder.gif');
+// }
 
 
 function setup() 
